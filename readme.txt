@@ -18,4 +18,4 @@ Disables responsive images introduced in 4.4. This plugin is only meant to be a 
 
 = Why would I ever want to disable responsive images? =
 
-You really shouldn't, but if you really need to because of conflicts with outdated plugins or themes, here it is.
+You really wouldn't, but if you absolutely need to because of conflicts with outdated plugins or themes, here it is.
