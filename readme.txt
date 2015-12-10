@@ -12,7 +12,7 @@ Disables responsive images introduced in 4.4.
 == Description ==
 
 Disables responsive images introduced in 4.4. This plugin is only meant to be a temporary solution to fixing conflicts with certain plugins and themes. Responsive images drive the web forward.
-
+Credit for solution goes to Birgir Erlendsson.
 
 == Frequently Asked Questions ==
 
